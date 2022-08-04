@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/QuadB/static/css/main.3aced9ac.css",
+    "main.js": "/QuadB/static/js/main.947dee63.js",
+    "static/js/787.27bb079f.chunk.js": "/QuadB/static/js/787.27bb079f.chunk.js",
+    "static/media/instagram_icon.png": "/QuadB/static/media/instagram_icon.dad1187bbf26fe9d5ba5.png",
+    "static/media/whatsapp_icon.png": "/QuadB/static/media/whatsapp_icon.ffba9eb3fcd093141629.png",
+    "index.html": "/QuadB/index.html",
+    "main.3aced9ac.css.map": "/QuadB/static/css/main.3aced9ac.css.map",
+    "main.947dee63.js.map": "/QuadB/static/js/main.947dee63.js.map",
+    "787.27bb079f.chunk.js.map": "/QuadB/static/js/787.27bb079f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aced9ac.css",
+    "static/js/main.947dee63.js"
+  ]
+}
